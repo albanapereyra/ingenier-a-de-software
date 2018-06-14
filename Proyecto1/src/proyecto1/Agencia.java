@@ -8,6 +8,7 @@ package proyecto1;
 import static java.nio.file.Files.list;
 import static java.rmi.Naming.list;
 import static java.util.Collections.list;
+import java.util.List;
 
 
 /**
@@ -16,6 +17,6 @@ import static java.util.Collections.list;
  */
 public class Agencia {
     int numeroAgencia;
-    list<Vehiculo> unidades[];
+    List<Vehiculo> unidades[];
     
 }
