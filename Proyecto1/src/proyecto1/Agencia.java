@@ -18,5 +18,5 @@ import java.util.List;
 public class Agencia {
     int numeroAgencia;
     List<Vehiculo> unidades[];
-    
+    String domicilio;
 }
