@@ -10,5 +10,5 @@ package proyecto1;
  * @author Albana
  */
 public class Concesionaria {
-    
+    String domicilio;
 }
